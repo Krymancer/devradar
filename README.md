@@ -1,5 +1,5 @@
 # DevRdar
-O DevRadar its a radar for find devs
+DevRadar its a radar for find devs
 
 <p align="center">
   <img alt="Frontend" src=".github/devradar.png" width="100%">
