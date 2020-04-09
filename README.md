@@ -1,4 +1,4 @@
-# DevRdar
+# DevRadar
 DevRadar its a radar for find devs
 
 <p align="center">
